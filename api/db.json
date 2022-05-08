@@ -1,0 +1,87 @@
+{
+  "restaurants": [
+    {
+      "name": "haldiram wardhman",
+      "email": "haldiram@gmail.com",
+      "address": "nagpur  wadoda",
+      "id": 3
+    },
+    {
+      "name": "ashu",
+      "email": "ashu@gmail.com",
+      "address": "nagpur",
+      "id": 4
+    },
+    {
+      "name": "vishu",
+      "email": "vishu@gmail.com",
+      "address": "nag",
+      "id": 5
+    },
+    {
+      "name": "nishu",
+      "email": "nishu@gmail.com",
+      "address": "hardoli",
+      "id": 6
+    },
+    {
+      "name": "aaru",
+      "email": "aaru matale",
+      "address": "pardi",
+      "id": 8
+    },
+    {
+      "name": "hm",
+      "email": "hm@gmail.com",
+      "address": "nagpur",
+      "id": 9
+    },
+    {
+      "name": "nilima",
+      "email": "balbudhe@gmail.com",
+      "address": "mauda",
+      "id": 10
+    },
+    {
+      "name": "rita ",
+      "email": "rita@gmail.com",
+      "address": "kharabi",
+      "id": 11
+    },
+    {
+      "name": "hm",
+      "email": "hm@gmail.com",
+      "address": "bom",
+      "phoneno": "1236547895",
+      "id": 13
+    },
+    {
+      "name": "nm",
+      "email": "nm@gmail.com",
+      "address": "nag",
+      "phoneno": "456987452",
+      "id": 14
+    },
+    {
+      "name": "sai",
+      "email": "sai",
+      "address": "nnn",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "payal",
+      "email": "payal@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "bhumesh",
+      "email": "bhumesh@gmail.com",
+      "password": "abc",
+      "phone_no": "1234",
+      "id": 2
+    }
+  ]
+}
